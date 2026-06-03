@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btn,
+.stop {
+  padding: 10px 20px;
+  cursor: pointer;
+}
